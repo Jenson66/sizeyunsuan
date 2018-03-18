@@ -163,5 +163,5 @@
 ```
 
 ### PSP表格
-![Image text](https://github.com/Jenson66/sizeyunsuan/sizeyunsuan/PSP.png)
+![Image text](https://github.com/Jenson66/sizeyunsuan/blob/master/PSP.png)
 
